@@ -3,6 +3,7 @@ var gra=document.querySelector("#gra");
 var plansza=[];
 var flag=0;
 var postawione=[]
+console.log("X");
 function saper()
 {
 for (let x=0;x<10;x++)
